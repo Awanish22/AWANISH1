@@ -80,7 +80,7 @@ a:hover {
   margin-bottom: 30px;
 }
 #title {
-  font-size: 6.5em;
+  font-size: 4.5em;
   padding-bottom: 15px;
   border: 3.00rem solid;
   border-image: conic-gradient(from var(--angle), var(--c2), var(--c1) 0.1turn, var(--c1) 0.15turn, var(--c2) 0.25turn) 30;
